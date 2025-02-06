@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.hero-img {
+    padding: 25px;
+    height: 450px;
+    width: auto;
+    border: black;
+    border-radius: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: center;
+    border: black;
+}
+
+footer {
+    background-color:black;
+    color: white;
+}

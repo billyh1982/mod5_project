@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .hero-img {
+    size: 250px;
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 0;
+  }
+  
+  .card-img-top {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px 0;
+  }
