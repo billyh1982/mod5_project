@@ -1,5 +1,7 @@
 .contact-form {
     background: #fff;
+    margin-right: 12%;
+    margin-left: 12%;
     margin-top: 25px;
     margin-bottom: 25px;
     width: 75%;
@@ -30,6 +32,8 @@
   }
   .btnContact {
     width: 30%;
+    margin-right: 25%;
+    margin-left: 30%;
     border: solid black;
     border-radius: 1rem;
     padding: 1.5%;

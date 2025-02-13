@@ -2,24 +2,26 @@ body {
     background-color: #f8f9fa;
   }
   
-  .hero-img {
-    size: 250px;
-    background-color: #343a40;
-    color: #fff;
+  .container-fluid {
+    max-width: 40%;
+    margin: auto;
+    display: contents; 
+    size: 150px;
+    color: #1b1a1a;
   }
   
-  .card {
-    border: none;
-    border-radius: 0;
-  }
-  
-  .card-img-top {
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
-  }
-  
+.carousel-slide{
+  max-width: 40%;
+  margin: auto;
+  display: table-footer-group;
+  position: block;
+  size: 150px;
+position: center;
+}
+
   footer {
     background-color: #343a40;
     color: #fff;
     padding: 10px 0;
+    text-align: center;
   }
